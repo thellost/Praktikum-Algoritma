@@ -1,2 +1,3 @@
 #! /usr/bin/python3.
-#codingan kalian 
+#codingan kalian
+print("this is frpm local remote!")
